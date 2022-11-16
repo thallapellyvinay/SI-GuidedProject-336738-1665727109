@@ -5,4 +5,4 @@ Brain tumor is one of the main causes of cancer death worldwide. Computer-aided 
 
 The goal is to classify images into two classifications of malignant and benign. As earlydiagnostics significantly increases the chances of correct treatment and survival. In application, we are helping the doctors and patients to classify the Type of   Tumour forthe specific image given with the help of Neural Networks.We will be using deep learning algorithm CNN, NumPy, TensorFlow, Keras, OpenCV andsome other deep learning techniques. We will do Flask Integration and IBM Watson Deployment also
 
-This is the video demonstration link : 
+This is the video demonstration link : https://drive.google.com/file/d/1MrBWs8RGI8005laxj_RViEp9iXxjfg2V/view?usp=drivesdk
